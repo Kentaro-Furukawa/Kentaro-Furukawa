@@ -1,0 +1,3 @@
+- 👋 Hi there, I’m @Kentaro-Furukawa
+- 👀 I’m interested in web and mobile development.
+- 🌱 I’m currently learning Javascript.
