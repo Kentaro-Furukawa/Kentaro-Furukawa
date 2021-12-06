@@ -12,7 +12,9 @@ In the year 2021, studied some of Swift and SwiftUI with *The 100 Days of SwiftU
 
 ----------
 
-I am working on some web scraping things and web developments.
-Recenly I found interesting in VBA, and working on to improve efficiency of my daily work.
+<h1>As of this writing...</h1>
+
+<p>I am working on some web scraping things and web developments.</p>
+<p>Recenly I found interesting in VBA, and working on to improve efficiency of my daily work.</p>
 
 ----------
