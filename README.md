@@ -1,5 +1,18 @@
-- 👋 Hi there, I’m @Kentaro-Furukawa
+👋 Hi there,
+I’m @Kentaro-Furukawa
 
-I have some experiences in the web development, had been worked at a web development firm in Tokyo, Japan, as a HTML coder for a little while. the job involved bit of Javascript and PHP. somehow I left and wonderd around different things for years. Then time passed, curretly I am working in the IT filed.
+I have some experiences in the web development, had been working at a web development firm in Tokyo, Japan, as an HTML coder for a little while. The job involved a bit of Javascript and PHP. Somehow I left and wandered around different things for years. Then time passed, currently I am working in the IT field and doing fine.😎
 
-Thank you all.
+**************************
+
+In the year 2021, studied some of Swift and SwiftUI with *The 100 Days of SwiftUI.
+(Didn't finish the course yet.)
+
+*Hacking with Swift( https://www.hackingwithswift.com/ )
+
+----------
+
+I am working on some web scraping things and web developments.
+Recenly I found interesting in VBA, and working on to improve efficiency of my daily work.
+
+----------
