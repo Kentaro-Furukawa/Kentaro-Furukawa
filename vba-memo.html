@@ -666,7 +666,7 @@ End If
 End Sub</code></pre><pre id="853c7d05-05fc-4b03-b08c-3942c3b555c2" class="code"><code>Sub MsgBox_OKCancel()
  
 Dim answer As Integer
-answer = MsgBox(&quot;You select ** items&quot; &amp; vbNewLine &amp; &quot;Do you want to continue?&quot;, vbOKCancel + vbQuestion, &quot;Extracting addresses from report items&quot;)
+answer = MsgBox(&quot;You selected {num} items&quot; &amp; vbNewLine &amp; &quot;Do you want to continue?&quot;, vbOKCancel + vbQuestion, &quot;Extracting addresses from report items&quot;)
  
   If answer = vbOK Then
     MsgBox &quot;OK&quot;
