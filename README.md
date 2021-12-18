@@ -1,7 +1,7 @@
 👋 Hi there,
 I’m @Kentaro-Furukawa
 
-I have some experiences in the web development, had been working at a web development firm in Tokyo, Japan, as an HTML coder for a little while. The job involved a bit of Javascript and PHP. Somehow I left and wandered around different things for years. Then time passed, currently I am working in the IT field and doing fine.😎
+I have some experiences of the web development, had been working at a web development firm in Tokyo, Japan, as an HTML coder for a little while. The job involved a bit of Javascript and PHP. Somehow I left and wandered around different things for years. Then time passed, currently I am working in the IT field and doing fine.😎
 
 **************************
 
