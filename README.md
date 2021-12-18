@@ -6,7 +6,7 @@ I have some experiences in the web development, had been working at a web develo
 **************************
 
 In the year 2021, studied some of Swift and SwiftUI with *The 100 Days of SwiftUI.
-(Didn't finish the course yet.)
+(Didn't finish the course yet.🖐)
 
 *Hacking with Swift( https://www.hackingwithswift.com/ )
 
