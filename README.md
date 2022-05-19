@@ -1,2 +1,1 @@
-👋 Hi there,
-I’m @Kentaro-Furukawa
+### 👋 Hi there, I’m @Kentaro-Furukawa
