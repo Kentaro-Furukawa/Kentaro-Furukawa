@@ -8,5 +8,3 @@ These days I am working on Email address handler.  👉  [Address Handler](https
 Firebase demo
 oh
 https://oh-vue3-crud.web.app/
-
-https://github.com/codingwithjustin/vue-firebase-crud#lints-and-fixes-files
