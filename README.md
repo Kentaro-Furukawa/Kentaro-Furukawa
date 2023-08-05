@@ -2,7 +2,7 @@
 
 I work on Web Tech related things, but do other stuffs as well. ☕️ 🏄 🌱
 
-# Blog posts in Japanese
+# Zenn: Published articles *written in Japanese
 <!-- BLOG-POST-LIST:START -->
 - [Value vs Reference](https://zenn.dev/kentarofurukawa/articles/b7d1a71aeba1de)
 - [Zoom Marketplaceのアプリ公開まで](https://zenn.dev/kentarofurukawa/articles/220a3f2fbe5b5b)
