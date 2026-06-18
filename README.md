@@ -1,7 +1,5 @@
 ### 👋 Hi there, I’m Ken.
 
-I work on Web Tech related things, but do other stuffs as well. ☕️ 🏄 🌱
-
 # Zenn: Published articles *written in Japanese
 <!-- BLOG-POST-LIST:START -->
 - [Speechaceの発音判定でəとʌを区別する](https://zenn.dev/kentarofurukawa/articles/3357e3a53d936c)
